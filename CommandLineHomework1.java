@@ -4,7 +4,7 @@ public class CommandLineHomework1
 	{
 		for(String str:args)
 		{
-			System.out.println("My first name is :" + str);
+			System.out.println(str);
 		;
 		}
 	}
